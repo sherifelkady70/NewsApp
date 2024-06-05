@@ -1,4 +1,12 @@
-**News Application**
+## News Application
+This News Application Display News From API and Can Cache Data of News In Room DB and Display it in Offline
+
+* **Technologies:**
+     * Kotlin. 
+     * MVVM.
+     * Repository Pattern.
+     * Romm DB.
+       
 
 
 <table>
